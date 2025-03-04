@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **itzjeganhere@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1S8hx2pRk3Jv6jk1N9jOnFXuPAGRqqfyv/view?usp=sharing](https://drive.google.com/file/d/1S8hx2pRk3Jv6jk1N9jOnFXuPAGRqqfyv/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1S8hx2pRk3Jv6jk1N9jOnFXuPAGRqqfyv/view?usp=sharing](https://drive.google.com/file/d/1dr_zAwyc3u1Hnuy1l2wi8-TW5tv5n6Ar/view?usp=sharing)
 
 - ⚡ Fun fact **I talk to myself sometimes, and honestly it gives greater Realizations.**
 
