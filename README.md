@@ -89,6 +89,5 @@
   </a>
 </p>
 
-![Jeganath's Github Stats](https://github-readme-stats.vercel.app/api?username=Jeganath18&show_icons=true&theme=transparent)
+![My Github Stats](https://github-readme-stats.vercel.app/api?username=Jeganath18&show_icons=true&theme=transparent)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeganath18&show_icons=true&locale=en" alt="jeganath18" /></p>
