@@ -89,7 +89,6 @@
   </a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeganath18&show_icons=true&locale=en&layout=compact" alt="jeganath18" /></p>
+![Jeganath's Github Stats](https://github-readme-stats.vercel.app/api?username=Jeganath18&show_icons=true&theme=transparent)
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeganath18&show_icons=true&locale=en" alt="jeganath18" /></p>
